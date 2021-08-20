@@ -17,7 +17,7 @@ function add_reusable_blocks() {
 			'manage_options',
 			'edit.php?post_type=wp_block',
 			'',
-			'dashicons-image-rotat',
+			'dashicons-image-rotate',
 			11
 		);
 	}
