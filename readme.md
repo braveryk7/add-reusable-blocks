@@ -6,6 +6,9 @@ add-resuable-blocksはWordPress管理メニューに再利用ブロックを追�
 * functions.php
 * add-resuable-blocks/add-resuable-blocks.php
 
+詳しい解説、使い方は全ての以下で解説しています。
+[WordPressのメニューに再利用ブロックリンクを追加する | L'7 Records](https://www.braveryk7.com/wordpress-reusable-blocks-add-menu/)
+
 ## functions.php
 functions.phpは、WordPressのテーマ構成ファイルの1つであるfunctions.phpに追記しての使用を想定しています。
 
