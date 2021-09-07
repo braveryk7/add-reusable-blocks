@@ -13,7 +13,7 @@
  */
 function add_css() {
 	if ( is_admin() ) {
-		wp_enqueue_style( 'arb_style', WP_PLUGIN_URL . '/add-reusable-blocks/build/css/arb.css' );
+		wp_enqueue_style( 'arb_gutenberg', WP_PLUGIN_URL . '/add-reusable-blocks/build/css/arb.css' );
 	}
 }
 add_action( 'enqueue_block_editor_assets', 'add_css' );
