@@ -29,3 +29,13 @@ add-reusable-block.phpはWordPressにプラグインとして追加すること�
 [zipファイルをダウンロード](https://github.com/braveryk7/add-reusable-blocks/releases/download/1.1.0/add-reusable-blocks.zip)
 # 免責事項
 当プログラムを利用したいかなる不都合も製作者は責任を負いかねます。
+
+# 更新履歴
+
+## Ver1.1.0 2021/9/7
+通常ブロックに変換していない状態の時に背景色をつける機能の追加
+
+## Ver1.0.0 2021/8/21
+
+* 制作開始
+* 公開
