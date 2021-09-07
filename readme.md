@@ -1,10 +1,10 @@
 # このリポジトリについて
-add-resuable-blocksはWordPress管理メニューに再利用ブロックを追加するための便利なリポジトリです。
+add-reusable-blocksはWordPress管理メニューに再利用ブロックを追加するための便利なリポジトリです。
 
 このリポジトリは以下の2つで構成されています。
 
 * functions.php
-* add-resuable-blocks/add-resuable-blocks.php
+* add-reusable-blocks/add-reusable-blocks.php
 
 詳しい解説、使い方は全ての以下で解説しています。
 
@@ -19,13 +19,13 @@ functions.phpの改変は必ず最終行にペースト（貼り付け）する�
 
 いつでも気軽にON/OFFできるので、特段の理由が無い限りCode Snippetsの利用をおすすめします。
 
-## add-resuable-blocks/add-resuable-blocks.php
-add-resuable-block.phpはWordPressにプラグインとして追加することを想定しています。
+## add-reusable-blocks/add-reusable-blocks.php
+add-reusable-block.phpはWordPressにプラグインとして追加することを想定しています。
 
 実装内容は先述したfunctions.phpと全く同一です。
 
 以下のリンクからダウンロードしてWordPressのプラグインページより追加してください。
 
-[zipファイルをダウンロード](https://github.com/braveryk7/add-reusable-blocks/releases/download/1.0.0/add-resuable-blocks.zip)
+[zipファイルをダウンロード](https://github.com/braveryk7/add-reusable-blocks/releases/download/1.0.0/add-reusable-blocks.zip)
 # 免責事項
 当プログラムを利用したいかなる不都合も製作者は責任を負いかねます。
