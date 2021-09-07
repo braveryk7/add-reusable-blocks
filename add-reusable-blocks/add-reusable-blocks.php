@@ -8,6 +8,13 @@
  * Author URI:  https://twitter.com/braveryk7
  */
 
+function add_css() {
+	if ( is_admin() ) {
+		wp_enqueue_style( 'arb_css', WP_PLUGIN_URL . '/add-reusable-blocks/build/css/arb.css' );
+	}
+}
+add_action( 'enqueue_block_editor_assets', 'add_css' );
+
  /* 再利用ブロックリンクをメニューに追加 */
 function add_reusable_blocks() {
 	if ( is_admin() ) {
